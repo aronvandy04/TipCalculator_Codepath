@@ -12,7 +12,9 @@ class SettingsViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-
+        
+        self.title = "SettingsViewController"
+        
         // Do any additional setup after loading the view.
     }
 
